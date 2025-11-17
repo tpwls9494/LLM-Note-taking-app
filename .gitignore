@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+.Python
+
+# Virtual Environment
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Environment Variables
+.env
+
+# RAG Storage
+rag_storage/
+*.pkl
+
+# Models
+models/
+
+# Logs
+*.log
